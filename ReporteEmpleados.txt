@@ -1,0 +1,3 @@
+id_estado,numero_empleados,Nombre_estado
+2,124,Guanajuato
+1,448,Michoacan
